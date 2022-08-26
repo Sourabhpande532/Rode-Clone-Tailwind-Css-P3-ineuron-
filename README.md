@@ -9,7 +9,7 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Shopify--Clone-orange)
 
-## Rode UI Clone (FULLY Responsive) [GO LIVE](https://shopify-clone-saurabhp-ineuron.netlify.app/)
+## Rode UI Clone (FULLY Responsive) [GO LIVE](https://rode-clone-saurabh-creation.netlify.app/)
 
 ![website](./Assets/Screenshot%202022-08-26%20182743.png)
 ---
