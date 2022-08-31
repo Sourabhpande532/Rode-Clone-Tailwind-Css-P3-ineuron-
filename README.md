@@ -9,6 +9,8 @@
 
 ![HTML & CSS-Assighnment-project](https://img.shields.io/badge/HTML--TailwindCSS-Shopify--Clone-orange)
 
+![HTML & CSS-Assighnment-project](https://img.shields.io/badge/Responsive-Ineuron--Assignment-blue)
+
 ## Rode UI Clone (FULLY Responsive) [GO LIVE](https://rode-clone-saurabh-creation.netlify.app/)
 
 ![website](./Assets/Screenshot%202022-08-26%20182743.png)
